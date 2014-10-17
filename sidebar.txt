@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sgp:home|Door43 (sgp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sgp|d43-sgp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sgp/archive/master.zip|d43-sgp.zip]]
+
+**Recent Changes**
+{{changes>ns = sgp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sgp|Ethnologue data]]
+
